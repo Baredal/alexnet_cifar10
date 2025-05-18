@@ -1,1 +1,1 @@
-# alexnet_cifar10
+# Improved AlexNet for CIFAR-10 dataset
